@@ -1,0 +1,1 @@
+1. Create a Linked List class containing methods to add, remove nodes in a Linked List.

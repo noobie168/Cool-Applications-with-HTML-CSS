@@ -1,0 +1,7 @@
+1. Transition property is very useful for animating the effects on the webpage.
+2. Transition property is well utilized with corresponding JS code.
+3. nextElementSibling --> JS property to determine the next element which is a sibling of the current element.
+4. prevElementSibling --> JS property to determine the previous element which is a sibling of the current element.
+5. setInteval() --> Function that is used to execute some task after some Time Interval.
+6. clearInterval() --> Used to destroy the task of setInterval.
+7. transform: translate --> CSS Property used to transform the element as we learnt in Computer Graphics.

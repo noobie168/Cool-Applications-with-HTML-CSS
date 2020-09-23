@@ -1,0 +1,4 @@
+1. Use the Random function to generate random letters, numbers, special characters.
+2. Put each Random function into its respective objects.
+3. Use filter method to filter out the unchecked characters.
+4. document.createElement() --> It will create an HTML element in the DOM area.

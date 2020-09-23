@@ -1,0 +1,2 @@
+1. Fontawesome is a huge iconic library or toolkit that can be used using just CSS classes.
+2. setInteval() --> It is used to repeatedly perform some function after certain interval of time.

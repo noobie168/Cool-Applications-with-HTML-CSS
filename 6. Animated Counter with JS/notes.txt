@@ -1,0 +1,2 @@
+1. getAttribute('Attribute_name') --> Returns the value of the HTML attribute (Attribute_name in this case).
+2. Add a '+' sign to convert string type to numbers in JS.
